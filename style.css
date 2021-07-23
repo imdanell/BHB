@@ -1,0 +1,26 @@
+.gradient-bg, body {
+    background: bisque;
+}
+
+.jumbotron {
+     background: lightyellow;
+background: radial-gradient(circle, white);
+}
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0; 
+    width: 100%; 
+    display: inline-block;
+    float: none;
+  }
+
+.no-border {
+    border: none;
+}
+
+
+body {
+    margin-top: 50px;
+  }
